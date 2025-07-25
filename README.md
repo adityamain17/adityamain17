@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello! I'm Aditya
 
-<!--
-**adityamain17/adityamain17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a beginner Python developer currently building small but meaningful projects.
 
-Here are some ideas to get you started:
+## 🧩 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔢 [Guess The Number] – My first Python game using loops and random numbers.
+- 🔐 [Password Generator] – My second project, generating secure passwords.
+
+## 🧠 What I’m Learning:
+- Python (OOP, APIs, File I/O)
+- Git & GitHub
+- Real-world project building
+
+## 💬 Let's connect:
+Feel free to check out my repos or reach out with suggestions!
