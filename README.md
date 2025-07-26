@@ -18,6 +18,7 @@ Outside of coding, I'm a rhythm guitarist and love performing live — I've perf
 
 - 🔢 [Guess The Number](https://github.com/adityamain17/GuessTheNumber) – My first Python game using loops and random numbers.
 - 🔐 [Password Generator](https://github.com/adityamain17/PasswordGenerator) – My second project, generating secure passwords with letters, numbers, and symbols.
+- 🌤️ Weather App (Project 3) This is a Python-based Weather App that fetches real-time weather data using the OpenWeatherMap API. It demonstrates how to work with APIs, HTTP requests, and JSON data formatting in a clean terminal interface.
 
 More projects coming soon...
 
