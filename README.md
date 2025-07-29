@@ -1,51 +1,69 @@
-# 👋 Hello! I'm Aditya
+# 👋 Hi, I'm Aditya
 
-🎓 I'm a second-year Mechanical Engineering student (Batch of 2028), currently studying in Dharwad, Karnataka.  
-💻 Alongside my core studies, I've developed a strong interest in **Python programming** and have started building real-world projects to grow as a developer.
-
-I'm self-taught in Python and passionate about:
-- Solving problems through code
-- Learning step by step
-- Exploring software development
-- Working toward a peaceful and purpose-driven tech career
-
-I believe in **consistent progress**, and I'm building projects that help me learn better.
-Outside of coding, I'm a rhythm guitarist and love performing live — I've performed multiple times at college events, blending creativity with logic in everything I do.
+🎓 **Mechanical Engineering Student (Batch of 2028)** — SDMCET, Dharwad  
+💻 Passionate self-taught **Python Developer** | Learning **Full Stack Development**  
+🚀 Building real-world projects that merge logic with creativity  
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-bajantri-2a3b83330) | 🖥️ [GitHub](https://github.com/adityamain17)
 
 ---
 
-## 🧩 My Projects
+## 🛠️ Technical Skills
 
-- 🔢 [Guess The Number](https://github.com/adityamain17/GuessTheNumber) – My first Python game using loops and random numbers.
-- 🔐 [Password Generator](https://github.com/adityamain17/PasswordGenerator) – My second project, generating secure passwords with letters, numbers, and symbols.
-- 🌤️ Weather App (Project 3) This is a Python-based Weather App that fetches real-time weather data using the OpenWeatherMap API. It demonstrates how to work with APIs, HTTP requests, and JSON data formatting in a clean terminal interface.
-
-More projects coming soon...
+- **Languages:** Python, HTML, CSS
+- **Core Concepts:** OOP, File Handling, APIs, Git
+- **Tools:** GitHub, VS Code, CLI, OpenWeatherMap API
+- **Focus Areas:** Backend Development, Problem Solving, Web Projects
 
 ---
 
-## 🧠 What I’m Learning
+## 🚀 Projects
 
-- ✅ Python (OOP, File I/O, APIs, Projects)
-- ✅ Git & GitHub
-- ✅ Logical problem solving and programming fundamentals
-- ✅ Writing clean documentation (`README.md`)
-- ✅ Building a developer mindset step by step
+### 🌐 Personal Portfolio Website
+My first website built using **HTML and CSS**. Simple, clean, and responsive design — created to showcase my developer profile.  
+📎 [Live Demo](https://adityamain17.github.io/my-profile-html-css/)  
+🔗 [GitHub Repo](https://github.com/adityamain17/my-profile-html-css)
+
+---
+
+### 🌤️ Weather App
+A Python CLI app that fetches real-time weather using the OpenWeatherMap API. Demonstrates API integration, JSON parsing, and user interaction.  
+🔗 [GitHub Repo](https://github.com/adityamain17/weather-project)
+
+---
+
+### 🔐 Password Generator
+Generates strong, customizable passwords using Python’s `random` module, with full control over length and character types.  
+🔗 [GitHub Repo](https://github.com/adityamain17/-password-generator)
+
+---
+
+### 🔢 Guess The Number
+A console-based number guessing game using loops, input validation, and `random.randint()`.  
+🔗 [GitHub Repo](https://github.com/adityamain17/Guess-The-Number)
+
+---
+
+### 🧠 Upcoming Projects
+- ✅ Django-based Blog Platform (coming soon)
+
+---
+
+## 📘 Currently Learning
+
+- Python (OOP, Modules, File I/O, APIs)
+- HTML + CSS (Frontend Basics)
+- Git & GitHub (Version Control)
+- Django (Web Framework)
+- Writing clean documentation (README.md)
 
 ---
 
 ## 🎯 Goals
 
-- Get an internship in a software/tech company (like Infosys or others)
-- Build a calm and meaningful career in tech — preferably in peaceful cities like Hubli, Mysore, or Dehradun
-- Learn enough to help others and collaborate on bigger projects
+- Land an **internship** in backend or full-stack development  
+- Collaborate on open-source projects  
+- Build a solid portfolio of technical and real-world applications
 
 ---
 
-## 💬 Let’s Connect
-
-- GitHub: [@adityamain17](https://github.com/adityamain17)
-- Linkedln: (www.linkedin.com/in/aditya-bajantri-2a3b83330 )
-
-
-Thanks for visiting! 🙏
+Thanks for visiting! ⭐ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-bajantri-2a3b83330)
