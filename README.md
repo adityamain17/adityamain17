@@ -30,8 +30,7 @@ Cleaned, visualized, and analyzed Diwali sales data to uncover customer insights
 ### 🌐 Personal Portfolio Website
 
 My first website built using **HTML and CSS**. Simple, clean, and responsive design — created to showcase my developer profile.
-📎 [Live Demo](https://adityamain17.github.io/my-profile-html-css/)
-🔗 [GitHub Repo](https://github.com/adityamain17/my-profile-html-css)
+📎 [Live Demo]https://adityamain17.github.io/adityaweb/
 
 ---
 
