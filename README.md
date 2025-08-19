@@ -27,13 +27,6 @@ Cleaned, visualized, and analyzed Diwali sales data to uncover customer insights
 
 ---
 
-### 🌐 Personal Portfolio Website
-
-My first website built using **HTML and CSS**. Simple, clean, and responsive design — created to showcase my developer profile.
-📎 [Live Demo]https://adityamain17.github.io/adityaweb/
-
----
-
 ### 🌤️ Weather App
 
 A Python CLI app that fetches real-time weather using the OpenWeatherMap API. Demonstrates API integration, JSON parsing, and user interaction.
