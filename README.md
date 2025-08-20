@@ -36,7 +36,9 @@ An end-to-end data analysis project using Pandas, Seaborn, and Matplotlib.
 Key Insights: Identified top-spending demographics and best-performing states & product categories.
 
 🐍 Python Mini Projects
+
 🌤️ Weather App
+
 
 A Python CLI app that fetches real-time weather using the OpenWeatherMap API. Demonstrates API integration, JSON parsing, and user interaction.
 
