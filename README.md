@@ -18,8 +18,9 @@ Focus Areas: Data Analysis, Problem Solving, Real-world Projects
 
 🚀 Projects
 📊 Data Analysis Projects
+
 🎥 Movies Data Analysis
- (https://github.com/adityamain17/Netflix_Data_Analysis.git)
+(https://github.com/adityamain17/Netflix_Data_Analysis.git)
 
 A complete data analysis project where I cleaned, categorized, and visualized a movies dataset (~9,800 rows → expanded to 25k+ after splitting multi-genre movies).
 Key Insights: Drama is the most frequent and popular genre, ~25.5% of movies are in the “popular” vote category, and Spider-Man: No Way Home is the most popular movie.
