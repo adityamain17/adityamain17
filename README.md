@@ -19,47 +19,33 @@ Focus Areas: Data Analysis, Problem Solving, Real-world Projects
 🚀 Projects
 📊 Data Analysis Projects
 🎥 Movies Data Analysis
+ (https://github.com/adityamain17/Netflix_Data_Analysis.git)
 
 A complete data analysis project where I cleaned, categorized, and visualized a movies dataset (~9,800 rows → expanded to 25k+ after splitting multi-genre movies).
-Key Insights:
+Key Insights: Drama is the most frequent and popular genre, ~25.5% of movies are in the “popular” vote category, and Spider-Man: No Way Home is the most popular movie.
 
-🎭 Drama is the most frequent and popular genre
+🎬 Netflix Data Analysis
 
-⭐ ~25.5% of movies are in the “popular” vote category
-
-🕷️ Spider-Man: No Way Home is the most popular movie
-
-🎶 The United States vs. Billie Holiday & Threads showed the lowest popularity
-
-📅 2020 had the highest number of releases
-🔗 GitHub Repo
- (replace with your repo link once uploaded)
+Analyzed Netflix dataset to explore movie/show genres, release years, and popularity patterns.
+Key Insights: Uncovered genre trends, top countries producing Netflix content, and year-wise additions to the platform.
 
 🪔 Diwali Sales Data Analysis
 
 An end-to-end data analysis project using Pandas, Seaborn, and Matplotlib.
-Key Insights:
-
-Top-spending demographics identified
-
-Best-performing states & product categories highlighted
-📎 GitHub Repo
+Key Insights: Identified top-spending demographics and best-performing states & product categories.
 
 🐍 Python Mini Projects
 🌤️ Weather App
 
 A Python CLI app that fetches real-time weather using the OpenWeatherMap API. Demonstrates API integration, JSON parsing, and user interaction.
-🔗 GitHub Repo
 
 🔐 Password Generator
 
 Generates strong, customizable passwords using Python’s random module, with full control over length and character types.
-🔗 GitHub Repo
 
 🔢 Guess The Number
 
 A console-based number guessing game using loops, input validation, and random.randint().
-🔗 GitHub Repo
 
 🧠 Upcoming Projects (Data Analysis Focus)
 
