@@ -19,18 +19,19 @@ Focus Areas: Data Analysis, Problem Solving, Real-world Projects
 🚀 Projects
 📊 Data Analysis Projects
 
-🎥 Movies Data Analysis
+🎬 Netflix Data Analysis
 (https://github.com/adityamain17/Netflix_Data_Analysis.git)
 
 A complete data analysis project where I cleaned, categorized, and visualized a movies dataset (~9,800 rows → expanded to 25k+ after splitting multi-genre movies).
 Key Insights: Drama is the most frequent and popular genre, ~25.5% of movies are in the “popular” vote category, and Spider-Man: No Way Home is the most popular movie.
 
-🎬 Netflix Data Analysis
-
 Analyzed Netflix dataset to explore movie/show genres, release years, and popularity patterns.
 Key Insights: Uncovered genre trends, top countries producing Netflix content, and year-wise additions to the platform.
 
+
 🪔 Diwali Sales Data Analysis
+
+git - https://github.com/adityamain17/Diwali_Sales_Analysis.git  
 
 An end-to-end data analysis project using Pandas, Seaborn, and Matplotlib.
 Key Insights: Identified top-spending demographics and best-performing states & product categories.
@@ -39,16 +40,23 @@ Key Insights: Identified top-spending demographics and best-performing states & 
 
 🌤️ Weather App
 
+git-https://github.com/adityamain17/weather-project.git
 
 A Python CLI app that fetches real-time weather using the OpenWeatherMap API. Demonstrates API integration, JSON parsing, and user interaction.
 
 🔐 Password Generator
 
+git-https://github.com/adityamain17/-password-generator.git
+
 Generates strong, customizable passwords using Python’s random module, with full control over length and character types.
 
 🔢 Guess The Number
 
+git-https://github.com/adityamain17/Guess-The-Number.git
+
 A console-based number guessing game using loops, input validation, and random.randint().
+
+
 
 🧠 Upcoming Projects (Data Analysis Focus)
 
@@ -59,6 +67,8 @@ A console-based number guessing game using loops, input validation, and random.r
 🌍 Global CO₂ Emissions Analysis — Study climate data to track emission trends and country-wise contributions.
 
 🎶 Spotify Data Insights — Analyze top tracks & artists to find trends in music popularity.
+
+
 
 📘 Currently Learning
 
@@ -71,6 +81,8 @@ Jupyter Notebook for EDA
 Git & GitHub (Version Control)
 
 Django Framework
+
+
 
 🎯 Goals
 
