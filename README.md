@@ -76,13 +76,4 @@ Build a portfolio showcasing real-world projects and data storytelling
 
 Collaborate on open source & industry projects to deepen practical experience
 
-⭐ Thanks for visiting! Feel free to connect for collaborations or guidance.
-
-Let me know if you want this formatted for LinkedIn, GitHub README, or resume!
-
-Related
-Do you want the bank loan project added to my GitHub projects list with a live link
-Which URL should I use for the bank loan project (HTTPS or SSH)
-Should I display the bank loan project description as a short bullet or a one-line summary
-Do you want Machine Learning, Power BI, and Excel listed under technical skills or tools
-Should I update project links as permalinks to specific commits or to the repo root
+⭐ Thanks for visiting! Feel free to connect for collaborations or guidance
