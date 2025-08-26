@@ -1,97 +1,73 @@
 👋 Hi, I'm Aditya
-
 🎓 Mechanical Engineering Student (Batch of 2028) — SDMCET, Dharwad
-💻 Passionate self-taught Python Developer | Aspiring Data Analyst
-📊 Exploring real-world data to find patterns, trends, and insights
-🔗 LinkedIn
- | 🖥️ GitHub
+💻 Passionate self-taught Python Developer | Aspiring Data Analyst 📊
+🔍 Exploring real-world data to find patterns, trends, and insights
+🔗 Connect with me: LinkedIn | 🖥️ GitHub
 
 🛠️ Technical Skills
-
 Languages: Python, HTML, CSS, SQL
-
 Core Concepts: OOP, File Handling, APIs, Git, EDA (Exploratory Data Analysis)
-
 Tools & Libraries: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, GitHub, VS Code
+Focus Areas: Data Analysis, Data Visualization, Problem Solving, Real-world Projects
 
-Focus Areas: Data Analysis, Problem Solving, Real-world Projects
+🚀 Recent Projects
+📊 Netflix Data Analysis
+GitHub: Netflix_Data_Analysis
 
-🚀 Projects
-📊 Data Analysis Projects
+Cleaned, categorized, and visualized ~9,800 movie records expanded to 25k+ after genre splitting
 
-🎬 Netflix Data Analysis
-(https://github.com/adityamain17/Netflix_Data_Analysis.git)
+Discovered popularity trends: Drama leads genres; “Spider-Man: No Way Home” is the top movie
 
-A complete data analysis project where I cleaned, categorized, and visualized a movies dataset (~9,800 rows → expanded to 25k+ after splitting multi-genre movies).
-Key Insights: Drama is the most frequent and popular genre, ~25.5% of movies are in the “popular” vote category, and Spider-Man: No Way Home is the most popular movie.
-
-Analyzed Netflix dataset to explore movie/show genres, release years, and popularity patterns.
-Key Insights: Uncovered genre trends, top countries producing Netflix content, and year-wise additions to the platform.
-
+Analyzed global Netflix content production and year-wise platform additions
 
 🪔 Diwali Sales Data Analysis
+GitHub: Diwali_Sales_Analysis
 
-git - https://github.com/adityamain17/Diwali_Sales_Analysis.git  
+End-to-end data cleaning, visualization using Seaborn and Matplotlib
 
-An end-to-end data analysis project using Pandas, Seaborn, and Matplotlib.
-Key Insights: Identified top-spending demographics and best-performing states & product categories.
+Key insights: Top-spending demographics, best-performing states and product categories
+
+⚙️ HR Analytics Dashboard
+GitHub: HR-Analytics
+
+Interactive dashboard analyzing employee attrition, demographics, salary slabs, tenure, and education trends
+
+Enables data-driven HR decision making, retention strategies, and workforce optimization
+
+💼 Sales Analysis Dashboard
+GitHub: Sales-Analysis
+
+Comprehensive sales insights across categories, segments, regions, and shipping modes with Power BI
+
+Visualizes profit, discount, and top product trends supporting strategic business decisions
 
 🐍 Python Mini Projects
-
 🌤️ Weather App
 
-git-https://github.com/adityamain17/weather-project.git
-
-A Python CLI app that fetches real-time weather using the OpenWeatherMap API. Demonstrates API integration, JSON parsing, and user interaction.
+CLI app fetching real-time weather data with OpenWeatherMap API integration
 
 🔐 Password Generator
 
-git-https://github.com/adityamain17/-password-generator.git
+Customizable strong password creation with control over length and character types
 
-Generates strong, customizable passwords using Python’s random module, with full control over length and character types.
+🔢 Guess The Number Game
 
-🔢 Guess The Number
+Console-based number guessing game using loops and input validation
 
-git-https://github.com/adityamain17/Guess-The-Number.git
+🎯 Current Learning Goals
+Advanced Data Visualization (Matplotlib, Seaborn)
 
-A console-based number guessing game using loops, input validation, and random.randint().
+Exploratory Data Analysis in Jupyter Notebook
 
+Version Control with Git & GitHub
 
+Django Framework for web development
 
-🧠 Upcoming Projects (Data Analysis Focus)
+🌟 Career Aspiration
+Land internship or role as Data Analyst
 
-📊 IPL Data Analysis Dashboard — Analyze cricket match stats with Pandas & visualize insights with Matplotlib/Seaborn.
+Build a portfolio showcasing real-world projects and data storytelling
 
-🛒 Retail Sales Analysis — Explore customer spending patterns & product performance using real-world sales datasets.
+Collaborate on open source & industry projects to deepen practical experience
 
-🌍 Global CO₂ Emissions Analysis — Study climate data to track emission trends and country-wise contributions.
-
-🎶 Spotify Data Insights — Analyze top tracks & artists to find trends in music popularity.
-
-
-
-📘 Currently Learning
-
-Python (Data Analysis)
-
-Data Visualization (Matplotlib & Seaborn)
-
-Jupyter Notebook for EDA
-
-Git & GitHub (Version Control)
-
-Django Framework
-
-
-
-🎯 Goals
-
-Land an internship or role in Data Analysis
-
-Work on real datasets to improve data storytelling
-
-Build a portfolio of analysis projects and dashboards
-
-Collaborate on open-source data-driven projects
-
-⭐ Thanks for visiting! Feel free to connect with me on LinkedIn
+⭐ Thanks for visiting! Feel free to connect with me for collaborations or guidance.
