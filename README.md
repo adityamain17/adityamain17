@@ -1,79 +1,77 @@
 👋 Hi, I'm Aditya
+
 🎓 Mechanical Engineering Student (Batch of 2028) — SDMCET, Dharwad
-💻 Passionate self-taught Python Developer | Aspiring Data Analyst 📊
-🔍 Exploring real-world data to find patterns, trends, and insights
-🔗 Connect with me: LinkedIn | 🖥️ GitHub
+🔧 Aspiring Mechanical Engineer with strong analytical & computational skills
+💻 I use Python, Data Analysis & Machine Learning to enhance engineering systems
+⚙️ Interested in Predictive Maintenance, Smart Manufacturing & Industry 4.0
 
-🛠️ Technical Skills
-Languages: Python, HTML, CSS, SQL
-Core Concepts: OOP, File Handling, APIs, Git, EDA (Exploratory Data Analysis), Machine Learning
-Tools & Libraries: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Power BI, Excel, GitHub, VS Code
-Focus Areas: Data Analysis, Data Visualization, Problem Solving, Real-world Projects
+🔗 Connect with me:
 
-🚀 Recent Projects
-📊 Netflix Data Analysis
+💼 LinkedIn:https://www.linkedin.com/in/aditya-bajantri-2a3b83330 
+🖥️ GitHub: https://github.com/adityamain17
+⚙️ What I Do
 
-Cleaned, categorized, and visualized ~9,800 movie records expanded to 25k+ after genre splitting
+I combine mechanical engineering fundamentals with modern technical tools to:
 
-Discovered popularity trends: Drama leads genres; “Spider-Man: No Way Home” is the top movie
-
-Analyzed global Netflix content production and year-wise platform additions
-
-🪔 Diwali Sales Data Analysis
-
-End-to-end data cleaning and visualization using Seaborn and Matplotlib
-
-Key insights: Top-spending demographics, best-performing states and product categories
-
+Analyze machine and system behavior
+Predict failures and improve reliability
+Extract insights from real-world datasets
+Apply data-driven thinking to engineering problems
+🛠️ Skills
+🔧 Mechanical Engineering
+Machine Behavior & System Analysis
+Failure Analysis & Reliability Engineering
+Thermodynamics & Heat Transfer (applied understanding)
+Manufacturing Systems
+💻 Technical Skills
+Programming: Python, SQL
+Data Analysis: Pandas, NumPy, EDA
+Visualization: Matplotlib, Seaborn, Power BI
+Machine Learning: Scikit-learn
+Tools: Jupyter Notebook, Excel, Git, VS Code
+🚀 Projects (Mechanical + Analytical Approach)
+🔧 Predictive Maintenance of Industrial Machines
+Built ML models using AI4I dataset to predict machine failures
+Analyzed key mechanical parameters:
+Torque
+Rotational Speed
+Temperature
+Tool Wear
+Engineered feature: Power = Torque × Speed
+Focus: reducing downtime & improving machine reliability
+🧠 Fraud Detection System
+Built a classification model to detect fraudulent transactions
+Applied machine learning algorithms and data preprocessing techniques
+Worked on imbalanced data handling and pattern detection
+📌 Skill relevance: anomaly detection — similar to identifying abnormal machine behavior in engineering systems
 💼 HR Analytics Dashboard
-
-Interactive dashboard analyzing employee attrition, demographics, salary slabs, tenure, and education trends
-
-Enables data-driven HR decision making, retention strategies, and workforce optimization
-
+Built dashboard analyzing employee attrition & performance trends
+Applied structured data analysis for system optimization
+📌 Skill relevance: multi-variable system analysis
 📈 Sales Analysis Dashboard
-
-Comprehensive sales insights across categories, segments, regions, and shipping modes using Power BI
-
-Visualizes profit, discount, and top product trends supporting strategic business decisions
-
-🏦 Bank Loan Data Analytics
-
-Analyzes bank loan application data to identify trends, risks, and patterns
-
-Supports data-driven lending decisions with visualization and predictive analytics
-
+Visualized profit, discount, and regional trends using Power BI
+Enabled data-driven decision-making
+📌 Skill relevance: operational performance analysis
+🏦 Bank Loan Data Analysis
+Identified risk patterns and approval trends
+Applied predictive and analytical techniques
+📌 Skill relevance: decision systems & predictive modeling
 🐍 Python Mini Projects
-🌤️ Weather App
+🌤️ Weather App → Real-time data handling using APIs
+🔐 Password Generator → Logic building & security concepts
+🔢 Guess The Number → Algorithmic thinking
+🎯 Current Focus
+Applying Machine Learning in Mechanical Engineering
+Learning Industry 4.0 & Smart Manufacturing concepts
+Strengthening data-driven engineering skills
+Building projects combining mechanics + computation
+🌟 Career Goal
 
-CLI app fetching real-time weather data with OpenWeatherMap API integration
+To become a Mechanical Engineer who leverages technology to:
 
-🔐 Password Generator
+Improve machine reliability
+Enable predictive maintenance
+Optimize industrial processes
+Build intelligent engineering systems
 
-Customizable strong password creation with control over length and character types
-
-🔢 Guess The Number Game
-
-Console-based number guessing game using loops and input validation
-
-🎯 Current Learning Goals
-Advanced Data Visualization with Matplotlib & Seaborn
-
-Exploratory Data Analysis in Jupyter Notebook
-
-Version Control with Git & GitHub
-
-Django Framework
-
-Machine Learning Fundamentals
-
-Power BI & Excel for Business Intelligence
-
-🌟 Career Aspiration
-Land internship or role as Data Analyst
-
-Build a portfolio showcasing real-world projects and data storytelling
-
-Collaborate on open source & industry projects to deepen practical experience
-
-⭐ Thanks for visiting! Feel free to connect for collaborations or guidance
+⭐ “I use data and technology not as a replacement for engineering, but as a tool to make engineering smarter.”
